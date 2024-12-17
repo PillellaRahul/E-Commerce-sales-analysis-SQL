@@ -149,6 +149,6 @@ JOIN
 GROUP BY 
     o.OrderID, c.Name, o.OrderDate
 ORDER BY 
-    o.OrderDate DESC; name for this 
+    o.OrderDate DESC; 
 
 
